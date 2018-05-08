@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {
-    "some things" => "to"
-    "other things" => "run"
+    "some things" => "to",
+    "other things" => "run",
     "born to run" => "running"
   }
 end
